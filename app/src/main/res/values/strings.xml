@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ATWDPC</string>
+    <string name="title_activity_find_device">FindDeviceActivity</string>
+</resources>
